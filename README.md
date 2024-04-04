@@ -40,8 +40,7 @@
           You can test out this program 
         <a
           https://19992018.github.io/apt-1030-groupwork/sign-in-group-assignment/index.html
-          >here</a
-        >
+          >here</a>
       <p>
       <p>Here is the problem/question we were solving:</p>
       <p>
