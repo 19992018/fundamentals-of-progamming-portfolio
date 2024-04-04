@@ -8,7 +8,7 @@
       of programming in various languages. Thus the projects in this repository
       are in different languages including: Javascript, Prolog et. al
     </p>
-    <h1>About Me</h1>
+    <h2>About Me</h2>
     <p>
       I am an IT student at USIU currently pursuing a Masters in Information
       Systems technology. My degree background is in law hence this Master's
