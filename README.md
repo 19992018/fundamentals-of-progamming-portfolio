@@ -16,7 +16,7 @@
       projects I have done for the past three months as I lay my foundation for
       hopefully, an illustrous career in IT.
     </p>
-    <h1>My projects</h1>
+    <h2>My projects</h2>
     <p>
       Click the links below to see how I approached the various assignments in a
       unit I took called Fundamentals of Programming
@@ -130,7 +130,7 @@
         user's command. (Hint: use loops).
       </p>
     </ol>
-    <h1>Contact Me</h1>
+    <h2>Contact Me</h2>
     <p>
       I am open to internships and junior software development roles. Kindly
       reach me on:
