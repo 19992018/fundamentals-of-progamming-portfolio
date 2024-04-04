@@ -36,6 +36,13 @@
         https://github.com/academind/functional-procedural-oop/blob/functional/functional.js
         , a separate github repo, tweaking it to align with our code.
       </p>
+      </p>
+          You can test out this program 
+        <a
+          https://19992018.github.io/apt-1030-groupwork/sign-in-group-assignment/index.html
+          >here</a
+        >
+      <p>
       <p>Here is the problem/question we were solving:</p>
       <p>
         Develop a login application (See figure 1) that can validate both input
